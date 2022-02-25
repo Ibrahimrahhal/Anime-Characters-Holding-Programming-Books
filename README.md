@@ -1,5 +1,5 @@
 # Anime-Characters-Holding-Programming-Books
-Anime Characters Holding Programming Books
+Anime Characters Holding Programming Books this repo is a copy of https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books while allowing all anime charecters not just girls
 
 # Contribution Guidelines
 
